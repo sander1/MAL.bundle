@@ -1,16 +1,16 @@
 [
 	{
-		"id":		"username",
-		"label":	"MyAnimelist.net Username",
-		"type":		"text",
-		"default":	"",
+		"id": "username",
+		"label": "MyAnimelist.net Username",
+		"type": "text",
+		"default": ""
 	},
 	{
-		"id":		"password",
-		"label":	"MyAnimelist.net Password",
-		"type":		"text",
-		"option":	"hidden",
-		"secure":	"true",
-		"default":	"",
-	},
+		"id": "password",
+		"label": "MyAnimelist.net Password",
+		"type": "text",
+		"option": "hidden",
+		"secure": "true",
+		"default": ""
+	}
 ]
